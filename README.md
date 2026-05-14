@@ -1,4 +1,5 @@
 resample
+
 /******************************************************************************
 var selectors = ['lon', 'lat'].concat(metadataFields).concat(variableNames);
 var requiredFields = ['lon', 'lat'].concat(variableNames);
