@@ -31,6 +31,16 @@ Carbon sequestration and ecosystem productivity are affected by vegetation activ
 
 1. Open the script in the Google Earth Engine Code Editor.
 2. Replace the study area asset:
+3. Set the target year.
+
+```javascript
+targetYear: 2020
+```
+
+You can change `targetYear` to another year depending on your research period, such as `2015`, `2020`, or `2022`.
+
+Please make sure that the selected year is available in all required datasets.
 
 ```javascript
 studyAreaAsset: 'users/your_username/your_study_area_asset'
+
