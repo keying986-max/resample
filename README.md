@@ -1,6 +1,6 @@
 # GEE Carbon Variable Extraction
 
-Reproducible Google Earth Engine scripts for extracting and resampling annual environmental variables for carbon sequestration and ecosystem productivity studies.
+Reproducible Google Earth Engine scripts for extracting and resampling annual environmental variables for carbon sequestration and ecosystem productivity studies. All variables are aligned to a 0.1° WGS84 grid using the ERA5-Land spatial resolution as the target template.
 
 ## Research Motivation
 
